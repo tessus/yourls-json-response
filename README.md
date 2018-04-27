@@ -7,9 +7,11 @@ Add .json (or a custom string/character) to the short URL to get info about it a
 ## Installation
 
 1. Change to the `user/plugins` directory
-	- `git clone https://github.com/tessus/yourls-json-response.git json-response`
-	or
-	- create a directory `json-response` and copy the [files of this repository](https://github.com/tessus/yourls-json-response/archive/master.zip) to it
+	  - `git clone https://github.com/tessus/yourls-json-response.git json-response`
+  
+    	or
+	
+    - create a directory `json-response` and copy the [files of this repository](https://github.com/tessus/yourls-json-response/archive/master.zip) to it
 2. Activate the plugin (in your YOURLS admin page) 
 
 ## Configuration
