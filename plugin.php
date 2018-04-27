@@ -2,7 +2,7 @@
 /*
 Plugin Name: JSON Response
 Plugin URI: https://github.com/tessus/yourls-json-response
-Description: Add .json (or a custom string) to get info about a short URL as a JSON response
+Description: Add .json (or a custom string/character) to the short URL to get info about it as a JSON response.
 Version: 1.0
 Author: tessus
 Author URI: https://evermeet.cx
