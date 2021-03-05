@@ -15,7 +15,7 @@ if (!defined('TESSUS_JSON_TRIGGER'))
 }
 
 // Handle failed loader request
-yourls_add_action('loader_failed', 'tessus_json_response');
+yourls_add_action('redirect_keyword_not_found', 'tessus_json_response', 1);
 
 // Check for the trigger
 
