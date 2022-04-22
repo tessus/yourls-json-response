@@ -1,4 +1,4 @@
-# JSON Response
+# JSON Response [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 
 Plugin for [YOURLS](http://yourls.org/).
 
